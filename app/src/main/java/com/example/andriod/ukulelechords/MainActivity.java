@@ -113,6 +113,6 @@ public class MainActivity extends AppCompatActivity {
         buttonChordGb.setOnClickListener(onClickListener);
         buttonChordAb.setOnClickListener(onClickListener);
         buttonChordBb.setOnClickListener(onClickListener);
-        
+
     }
 }
